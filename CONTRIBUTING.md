@@ -1,5 +1,5 @@
 ```markdown
-# <img src="https://img.icons8.com/nolan/64/cyberpunk.png" width="30"/> Contribution Guide
+# <width="30"/> Contribution Guide
 
 Thank you for considering contributing to the Cyberpunk Hyprland project! This guide will help you set up the development environment and submit changes.
 
