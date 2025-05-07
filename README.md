@@ -113,7 +113,33 @@ journalctl -u hyprland -b
 Pull requests welcome! Please follow the [contribution guidelines](CONTRIBUTING.md).
 
 ## 📜 License
+MIT License
 
-MIT © 2025 [AL3XZIG]
+Copyright (c) MIT © 2025 AL3XZIG
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated configuration files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. Any use of Cyberpunk 2077 game assets (including but not limited to:
+   - Original Soundtrack (OST) music files
+   - Game artwork or textures
+   - Trademarked logos or characters
+   must comply with CD PROJEKT RED's official licensing terms at:
+   https://www.cdprojektred.com/en/legal
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ```
