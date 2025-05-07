@@ -18,7 +18,8 @@ A complete, self-configuring Hyprland setup with Cyberpunk 2077 aesthetics, auto
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cyberpunk-hyprland.git ~/.config/hypr
+git clone https://github.com/AL3XZIG/Hyprland-cyberpunk-config-/blob/main/hyprland.conf
+
 
 # First-run auto-configuration
 ~/.config/hypr/scripts/first_run.sh
