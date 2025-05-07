@@ -1,5 +1,5 @@
 ```markdown
-# <width="30"/> Contribution Guide
+# Contribution Guide
 
 Thank you for considering contributing to the Cyberpunk Hyprland project! This guide will help you set up the development environment and submit changes.
 
