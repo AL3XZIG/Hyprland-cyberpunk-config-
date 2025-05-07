@@ -1,7 +1,5 @@
 ```markdown
-# <img src="https://img.icons8.com/nolan/64/cyberpunk.png" width="30"/> Cyberpunk 2077 Hyprland Rice
-
-![Showcase](assets/showcase.gif)
+#  Cyberpunk 2077 Hyprland Rice 
 
 A complete, self-configuring Hyprland setup with Cyberpunk 2077 aesthetics, automatic hardware detection, and gaming optimizations. This configuration automatically installs and optimizes everything from display drivers to gaming utilities.
 
